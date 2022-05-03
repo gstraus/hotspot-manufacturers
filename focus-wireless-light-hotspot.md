@@ -127,7 +127,7 @@ We have initial production runs covered.  Our ownership and partners have multip
 The principal risks are those related to the COVID-19 pandemic, our manufacturing is within Mainland China and this could result in delays or component shortages.  Component supply issues might also effect final product pricing.
 
 ## Contact Info
-Gary.straus@focus-wireless.com
+gary@focus-wireless.com
 
 https://focus-wireless.com/manufacturing/
 
